@@ -1,3 +1,3 @@
 # hello-world
-A new testin repository
+A new testing repository
 Second repository
